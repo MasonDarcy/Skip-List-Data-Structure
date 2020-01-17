@@ -1,4 +1,4 @@
-# SkipListProject
+# Skip List Project
 
 Implementation of a Skiplist data structure with add and search functions. A data structure that supports O(log(n)) search and add
 functionality.
